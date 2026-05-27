@@ -1,35 +1,25 @@
-# ═══════════════════════════════════════════════
-# Python & Môi trường
-# ═══════════════════════════════════════════════
+# Python
 __pycache__/
 *.pyc
 venv/
 .venv/
 
-# ═══════════════════════════════════════════════
-# Dataset (quá lớn cho GitHub — 1.5GB)
-# ═══════════════════════════════════════════════
+# Dataset & Model
 dataset/
 
-# ═══════════════════════════════════════════════
-# File code nháp/cũ (không up lên mạng)
-# ═══════════════════════════════════════════════
+# Old Code / Drafts
 mainn.py
 mail.py
 on_dinh_nhung_cham
 hoatdongonnhanh
 apptest.py
 
-# ═══════════════════════════════════════════════
-# File tài liệu, báo cáo, thiết kế phần cứng không cần thiết
-# ═══════════════════════════════════════════════
+# Unnecessary files (PCB, Reports, Docs)
 pcb/
 reports/
 BaoCao_Python_NangCao.md
 
-# ═══════════════════════════════════════════════
-# IDE / Editor / Hệ điều hành
-# ═══════════════════════════════════════════════
+# IDE / OS
 .vscode/
 .idea/
 Thumbs.db
