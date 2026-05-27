@@ -26,7 +26,7 @@ Dự án này biến một chiếc Webcam bình thường gắn trên Gimbal (Pa
 ## 💻 Hướng dẫn cài đặt & Chạy dự án
 
 ### 1. Nạp code cho ESP32
-Mở file `firmware_esp32/firmware_esp32.ino` bằng phần mềm Arduino IDE và nạp vào mạch ESP32. Nhớ kiểm tra lại cổng kết nối mạch với Servo.
+Mở file `firmware_esp32/firmware_esp32.ino` bằng phần mềm Arduino IDE và nạp vào mạch ESP32. Nhớ kiểm tra lại cổng kết nối mạch với động cơ.
 
 ### 2. Cài đặt thư viện Python
 Cài đặt môi trường ảo và các thư viện cần thiết (YOLO, OpenCV, Pyserial...):
