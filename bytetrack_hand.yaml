@@ -1,0 +1,8 @@
+# ByteTrack config — Object Tracking (giam nhieu ID)
+tracker_type: bytetrack
+track_high_thresh: 0.22   # ha xuong: giu track khi vat the di nhanh (conf thap hon)
+track_low_thresh: 0.07    # ha xuong: van xu ly detection rat yeu
+new_track_thresh: 0.28    # ha xuong: cho phep vat the re-appear nhanh hon
+track_buffer: 90          # tang len: giu track lau hon khi mat bbox (90 frames ~ 3s)
+match_thresh: 0.92        # ha nhe: de match bbox sau khi bi offset do chuyen dong
+fuse_score: True
