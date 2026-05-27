@@ -17,8 +17,8 @@ Dự án này biến một chiếc Webcam bình thường gắn trên Gimbal (Pa
 
 ## 🛠️ Cấu trúc phần cứng (Hardware)
 - Mạch xử lý trung tâm: **ESP32** (Code nạp nằm trong thư mục `firmware_esp32`).
-- Cơ cấu chấp hành: Gimbal Pan/Tilt sử dụng **2 động cơ Servo** (hoặc Stepper).
-- Camera: Webcam tiêu chuẩn (720p/1080p).
+- Cơ cấu chấp hành: Gimbal Pan/Tilt sử dụng **2 động cơ stepper** .
+- Camera: Webcam tiêu chuẩn (720p).
 - Máy tính chạy AI: Máy tính có card đồ họa (Khuyên dùng RTX 3050 trở lên để đạt tốc độ > 30 FPS).
 
 ---
